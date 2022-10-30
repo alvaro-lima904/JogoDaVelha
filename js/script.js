@@ -58,7 +58,7 @@ function check() {
     }
 
     if (selected.filter((item) => item).length === 9) {
-        alert("DEU EMPATE!");
+        alert("DEU VELHA!");
         init();
         return;
     }
